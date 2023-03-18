@@ -5,7 +5,7 @@ export const Global = createGlobalStyle`
     --dark-primary: #111517;
     --dark-secondary: #202c37;
     --dark-thirdy: #2b3945;
-    --light-primary: #858585;
+    --light-primary: #adb5bd;
     --light-secondary: #fafafa;
     --light-thirdy: #ffffff;
   }
