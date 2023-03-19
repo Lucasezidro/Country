@@ -16,9 +16,9 @@ export function CountryCard ({ title, population, region, capital, image }: Coun
       <div className="info">
         <strong className="country-name">{title}</strong>
 
-        <span>Population: <span className="result">{population}</span></span>
-        <span>Region: <span className="result">{region}</span></span>
-        <span>Capital: <span className="result">{capital}</span></span>
+        <span>Population: <span className="results">{population}</span></span>
+        <span>Region: <span className="results">{region}</span></span>
+        <span>Capital: <span className="results">{capital}</span></span>
       </div>
 
     </Container>

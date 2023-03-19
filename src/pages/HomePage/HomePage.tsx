@@ -6,7 +6,6 @@ export function HomePage () {
   return (
     <>    
       <Navbar />
-      <Search />
       <Country />
     </>
   )
